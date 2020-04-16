@@ -1,0 +1,36 @@
+Major: COS
+The Computer Science program focuses on helping students gain the necessary skills to become productive leaders in computing and related industries. As such, our graduates are expected to be highly competent, well-qualified computer professionals with broad training in software development.
+
+Required courses:
+COS120 C++ Programming
+COS150 Discrete Structures
+COS221 Fundamental Data Structures
+COS230 Basics in Java Programming
+COS235 Computer Architecture
+COS315 Software Engineering
+COS491 Senior Project COS
+
+Semester 1
+COS120 C++ Programming
+COS150 Discrete Structures
+
+Semester 2
+COS221 Fundamental Data Structures
+COS230 Basics in Java Programming
+COS231 Introduction to UNIX
+COS235 Computer Architecture
+
+Semester 3
+COS315 Software Engineering
+
+Semester 4
+
+Semester 5
+
+Semester 6
+
+Semester 7
+COS491 Senior Project COS
+
+Semester 8
+

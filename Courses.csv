@@ -1,0 +1,32 @@
+Course Code,Course Name,Prerequisites,Required Standing
+COS120,C++ Programming,,
+COS150,Discrete Structures,,
+COS221,Fundamental Data Structures,COS120,
+COS230,Basics in Java Programming,COS120,
+COS235,Computer Architecture,,
+COS315,Software Engineering,COS230,
+COS491,Senior Project COS,COS315,Senior
+COS220,Concepts of Programming Languages,COS120,
+COS231,Introduction to UNIX,,
+COS240,Object-Oriented Programming,COS120,
+COS301,Compiler Theory,,Junior
+COS331,Operating Systems,COS235,
+COS340,Programming in Python,COS120,
+COS430,Cloud Computing,COS120,
+COS440,Computer Networks,COS230,Junior
+COS460,Algorithms,COS221,
+COS480,Data Mining,COS221,
+INF130,Basics in C# Programming,,
+INF280,Database Systems,INF130,
+INF320,Mobile Computing,INF130,
+INF335,Web Server Technologies,INF280,
+INF370,Information Security,,
+INF481,Big Data Analytics,INF280,Senior
+INF151,Personal Productivity with Information Technologies,,
+INF210,Programming in Visual Basic,,
+INF241,Website Development,,
+INF270,Analysis and Design of Information Systems,INF130,
+INF492,Senior Project INF,INF335,Senior
+INF450,Information Systems Project Management,INF270,
+INF375,Web-Client Technologies,INF240
+INF441,Technologies for Web-based Information Systems,INF335,Senior
